@@ -1,6 +1,6 @@
 # 📌Project Title
 
-Employee Salary Prediction Using Machine Learning and LLMs
+Employee Salary Prediction in HRMS Using XGBoost with LLM and RAG
 
 # 📖Project Description
 
