@@ -59,7 +59,9 @@ Display output
 # 📊Model Performance
 
 R² Score: 0.917
+
 MAE: 9182.92
+
 RMSE: 14147.025597742471
 
 # 📸Output Screens
