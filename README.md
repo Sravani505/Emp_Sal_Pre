@@ -34,10 +34,8 @@ Output: Predicted Salary + Explanation
 
 Python
 
-XGBoost
-
-LLM 
-
+XGBoost, LLM
+ 
 HTML, CSS
 
 Google Colab 
